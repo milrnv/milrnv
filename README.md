@@ -1,16 +1,46 @@
-## Hi there 👋
+<table>
+    <tr>
+        <td style="width: 65%;">
+           <img src="https://github.com/user-attachments/assets/c25e374f-f241-411f-a87d-f8a879244698" style="width:100%; border: none;"/>
+        </td>
+        <td style="width: 25%; vertical-align: middle;">
+            
+<p>    
+                
+    Milena Lopes. ︵‿︵‿୨♡୧‿︵‿︵
+</p>
+                                                                    
+    │▸ about me                                           |
+      ✭ she/her - brazilian - pt/br
+                                             
+    │▸ learning
+      ✭ chinese
+      ✭ cybersecurity
+      ✭ Java
+      ✭ Javascript
+      ✭ React
 
-<!--
-**milrnv/milrnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    │▸ languages
+      ✭ Python
+      ✭ GML
 
-Here are some ideas to get you started:
+    │▸ skills
+      ✭ Git
+      ✭ HTML / CSS
+      ✭ Figma / Canva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    │▸ frameworks, libraries
+      ✭ Tailwind & Bootstrap
+
+    │▸ interested
+      ✭ C#
+      ✭ TypeScript
+      ✭ Unity
+
+    │▸ operating systems
+      ✭ Linux
+      ✭ Windowns
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=l44ver&label=Profile%20Views&color=12&icon=9&pretty=true" />
+</a>
